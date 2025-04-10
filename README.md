@@ -1,4 +1,4 @@
-# Lumibud - Intelligenter Chat-Assistent
+# Lumibud - Chat-Assistent
 
 Lumibud ist ein schlanker, eleganter und funktionsreicher Chat-Assistent, der in reinem HTML, CSS und JavaScript implementiert ist. Mit einer wunderschönen Benutzeroberfläche und intelligenten Konversationsfähigkeiten bietet Lumibud ein reaktionsschnelles Chat-Erlebnis ohne externe APIs.
 
