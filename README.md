@@ -22,5 +22,3 @@ Das Projekt verwendet:
 ## Lizenz
 
 Veröffentlicht unter der MIT-Lizenz. Siehe [LICENSE.md](LICENSE.md) für Details.
-
-####################### lol
